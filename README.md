@@ -37,7 +37,6 @@ Portfolio project using the **Kaggle Store Sales — Time Series Forecasting** d
 3. Start: `jupyter notebook`
 4. Open `store_sales_forecasting.ipynb` and run all cells.
 
-Input CSVs are in `data/`. Outputs are in `outputs/`. The original Kaggle competition data is included for reproducibility. Please observe Kaggle dataset terms when redistributing.
 
 ## Data and feature availability
 
